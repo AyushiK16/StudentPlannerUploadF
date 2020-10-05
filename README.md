@@ -1,2 +1,2 @@
-# StudentPlannerUploadF
-This has the function to upload an image in the Reminder Page ( which is now the timetable page where the user can upload their timetable. )
+# p5.play-boilerplate
+Boiler plate for p5.play
